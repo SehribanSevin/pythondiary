@@ -12,5 +12,6 @@ print(",kutsal kitaplarda belirtildiği üzere Samaria'nın önünde üç yıl b
 print("Ninova'da düşmana karşı yedi sene dayanabildi.Truva on sene boyunca direnebildi ve"+Soru3)
 print("şerefi üstüne yemin edip söylediği üzere Azoth kapıları " +Soru4)
 print("'a ancak yirmi sene süren bir savunmanın ardından açıldı...")
+print("değişti mi")
 
 
